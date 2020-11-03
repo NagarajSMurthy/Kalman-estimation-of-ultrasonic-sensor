@@ -4,3 +4,6 @@ This repository explains the design and implementation of kalman filters for dis
 The sensor used is HC-SR04 ultrasonic distance sensor. To know more about the working and usage of this sensor, check out: https://www.youtube.com/watch?v=Z-j08CbcHPA 
 
 ![](kalman_estimation_gif.gif)
+
+The setup 
+![]()
