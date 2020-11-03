@@ -7,6 +7,7 @@ The setup
 ![](Kalman_filter_setup.jpg)
 
 Implementation
+
 ![](kalman_estimation_gif.gif)
 
 
