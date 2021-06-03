@@ -11,10 +11,10 @@ sudo apt-get -y install libatlas-base-dev libopenjp2-7-dev libopenjp2-7
 
 ```
 
-#The setup 
+## The setup 
 ![](Kalman_filter_setup.jpg)
 
-#Implementation
+## Implementation
 
 ![](kalman_estimation_gif.gif)
 
